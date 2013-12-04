@@ -7,7 +7,7 @@
  * Get weather
  *
  * @param array $params
- * @param Smarty_Internal_Template $smarty
+ * @param Smarty_Internal_Template $template
  * @return string
  */
 function smarty_function_set_art_data(array $params, Smarty_Internal_Template $template)

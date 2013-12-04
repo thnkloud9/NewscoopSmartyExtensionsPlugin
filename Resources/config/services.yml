@@ -1,5 +1,5 @@
 services:
-    newscoop_smarty-extensions_plugin.lifecyclesubscriber:
+    newscoop_smarty_extensions_plugin.lifecyclesubscriber:
         class: Newscoop\SmartyExtensionsPluginBundle\EventListener\LifecycleSubscriber
         arguments:
             - @em
