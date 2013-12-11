@@ -4,7 +4,7 @@
  */
 
 /**
- * Get weather
+ * Sets current_article_events_date after multisorting (kobinet)
  *
  * @param array $params
  * @param Smarty_Internal_Template $template

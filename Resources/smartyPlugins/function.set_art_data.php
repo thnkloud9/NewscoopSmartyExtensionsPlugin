@@ -4,7 +4,7 @@
  */
 
 /**
- * Get weather
+ * Sets art data array (used for kobinet)
  *
  * @param array $params
  * @param Smarty_Internal_Template $template

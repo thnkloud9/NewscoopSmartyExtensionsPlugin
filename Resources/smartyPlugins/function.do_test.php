@@ -4,7 +4,7 @@
  */
 
 /**
- * Get weather
+ * prints test
  *
  * @param array $params
  * @param Smarty_Internal_Template $template

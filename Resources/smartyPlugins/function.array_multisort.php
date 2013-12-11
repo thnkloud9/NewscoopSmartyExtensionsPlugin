@@ -4,7 +4,7 @@
  */
 
 /**
- * Get weather
+ * Sorts two arrays and assigns new sorted array to template var
  *
  * @param array $params
  * @param Smarty_Internal_Template $smarty
